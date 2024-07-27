@@ -22,7 +22,7 @@ sudo apt-get install git
 ```
 - To verify the installation, open your terminal and run:
 ```sh
-To verify the installation, open your terminal and run:
+git --version
 ```
 - You should see the installed Git version.
   
