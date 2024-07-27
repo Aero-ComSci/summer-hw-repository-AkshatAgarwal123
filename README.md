@@ -79,16 +79,12 @@ Initialize a new Git repository:
    ```
 This command creates a new subdirectory named `.git` that contains all of your necessary repository files.
 
-### Merging
-- **Merge Branches:** Incorporate changes from one branch into another.
+## Step 4. Stage and Commit Changes
+
+Stage your files:
+
   ```bash
-  git merge branch-name
-  ```
-## 4. Handling Backtracking and Undoing Changes
-### Backtracking
-- **Discard Changes:** Revert files to their state at the last commit.
-  ```bash
-  git checkout -- filename
+  git add .
   ```
 - **Undo Commit:** Revert the last commit and keep changes staged.
   ```bash
