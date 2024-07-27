@@ -35,6 +35,9 @@
 
 ### Installing Git and Configuring
 
+Before you can use Git, you need to install it on your computer.
+
+
 - **Install Git**: Download and install Git from [git-scm.com](https://git-scm.com/).
 - **Configure Git**: Set up your username and email globally.
   ```bash
