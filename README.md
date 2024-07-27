@@ -24,3 +24,21 @@ Before you can use Git, you need to install it on your computer.
   ```sh
   git --version
 - You should see the installed Git version.
+
+## Step 2: Set Up Git
+
+Set up your Git configuration with your name and email address. This information will be associated with your commits.
+  ```sh
+  git config --global user.name "Your Name"
+  git config --global user.email "your.email@example.com"
+
+## Step 3: Create a New Repository
+
+A repository (or repo) is where your project is stored.
+
+Navigate to your project directory:
+```sh
+cd path/to/your/project
+
+
+
