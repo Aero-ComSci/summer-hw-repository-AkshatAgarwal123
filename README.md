@@ -1,1 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/OgHQm8Y-)
+# Getting Started with Git and GitHub
+
+## Step 1: Install Git
+
+Before you can use Git, you need to install it on your computer.
+
+### Windows:
+- Download the Git installer from [git-scm.com](https://git-scm.com).
+- Run the installer and follow the instructions. Use the default settings unless you have specific requirements.
+
+### Mac:
+- Install Git using Homebrew. Open Terminal and run:
+  ```sh
+  brew install git
