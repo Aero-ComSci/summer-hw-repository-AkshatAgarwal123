@@ -16,3 +16,13 @@ Define a class using the `class` keyword followed by the class name.
 ```python
 class Dog:
     pass
+```
+
+## Step 2: Create an Object
+Create an object by calling the class.
+
+```python
+my_dog = Dog()
+```
+
+
