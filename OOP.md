@@ -4,7 +4,8 @@
 
 OOP is a programming paradigm that uses objects and classes. It helps to structure programs so that properties and behaviors are bundled into individual objects.
 
-![OOP Concepts](https://via.placeholder.com/600x300)
+![OOP Concepts](https://via.placeholder.com/600x30[Uploading imgres.html…]()
+0)
 
 ## 2. Creating Classes and Objects
 
