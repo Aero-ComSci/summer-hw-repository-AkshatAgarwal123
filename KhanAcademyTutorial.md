@@ -2,6 +2,25 @@
 
 This project demonstrates the use of a recursive function to calculate the factorial of a number and applies it to a dataset.
 
+## Step 1 Understanding Recursion
+
+Recursion is a technique where a function calls itself to solve smaller instances of the same problem until it reaches a base case. In the factorial problem, `n!` (n factorial) is defined as:
+```sh
+n!=n×(n−1)×(n−2)×…×1
+```
+
+The recursive definition of the factorial is:
+```sh
+factorial(n)= { 1    if n=0
+                n×factorial(n-1)    if n>0             }
+
+​
+  
+if n=0
+if n>0
+​
+
+
 ## Code
 
 ```python
